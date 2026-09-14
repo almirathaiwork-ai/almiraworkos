@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789355418623,
+      "tag": "0000_abandoned_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789360612413,
+      "tag": "0001_old_star_brand",
+      "breakpoints": true
+    }
+  ]
+}
