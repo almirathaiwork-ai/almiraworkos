@@ -1,0 +1,15 @@
+{
+  "name": "Meow meow",
+  "short_name": "Meow meow",
+  "description": "Không gian làm việc cá nhân",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbf6f8",
+  "theme_color": "#d482b0",
+  "icons": [
+    {"src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
