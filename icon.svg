@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tài liệu Almira WorkOS">
+  <defs>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8bdd6"/><stop offset="1" stop-color="#d482b0"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#pink)"/>
+  <rect x="109" y="92" width="254" height="330" rx="24" fill="#a84f81" opacity=".24"/>
+  <rect x="104" y="86" width="254" height="330" rx="24" fill="#fff9fc"/>
+  <rect x="133" y="133" width="135" height="17" rx="8" fill="#a9477c"/>
+  <rect x="133" y="178" width="184" height="13" rx="6" fill="#e7bad1"/>
+  <rect x="133" y="213" width="164" height="13" rx="6" fill="#e7bad1"/>
+  <rect x="133" y="248" width="184" height="13" rx="6" fill="#e7bad1"/>
+  <rect x="133" y="283" width="153" height="13" rx="6" fill="#e7bad1"/>
+  <rect x="133" y="334" width="88" height="15" rx="7" fill="#d984b1"/>
+  <path d="M358 157h46q11 0 11 11v45q0 11-11 11h-46z" fill="#bd6497"/>
+  <path d="M358 247h51q11 0 11 11v45q0 11-11 11h-51z" fill="#ef9dbf"/>
+  <path d="M358 337h40q11 0 11 11v42q0 11-11 11h-40z" fill="#a9477c"/>
+</svg>
